@@ -113,6 +113,7 @@ body {
 
   /* paragraph indents */
   p {
+	line-height: 2;
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/
