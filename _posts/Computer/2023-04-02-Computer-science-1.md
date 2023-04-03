@@ -1,5 +1,5 @@
 ---
-title:  "[Computer] 컴퓨터 과학 이야기"
+title:  "[CS] 컴퓨터 과학 이야기"
 excerpt: "컴퓨터 과학을 공부하기 전에 들어볼법한 이야기"
 
 //현재 카테고리: Comptuer, Blog, Python
@@ -12,7 +12,7 @@ toc: true
 toc_sticky: true
  
 date: 2023-04-02
-last_modified_at: 2023-04-02
+last_modified_at: 2023-04-04
 ---
 
 컴퓨터과학을 공부하기위해서 '한 권으로 읽는 컴퓨터 구조와 프로그래밍' 이라는 책을 구매했다. 서점에 들러 마음에 드는 제목과 훑어봤을 때 느낌이 좋은 책으로 골랐다.
