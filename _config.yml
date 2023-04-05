@@ -19,7 +19,7 @@ title                    : ""
 title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "98tech-savvy"
-description              : "Keep learning developer<br>2023-04-01 ~ "
+description              : "2023-04-01<br>Keep learning developer"
 url                      : https://98tech-savvy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "98tech-savvy/98tech-savvy.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

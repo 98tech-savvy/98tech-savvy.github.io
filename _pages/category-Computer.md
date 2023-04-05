@@ -1,5 +1,5 @@
 ---
-title: "컴퓨터과학"
+title: "Computer Scinece"
 layout: archive
 permalink: categories/computer
 author_profile: true

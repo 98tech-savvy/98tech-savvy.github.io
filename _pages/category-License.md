@@ -1,5 +1,5 @@
 ---
-title: "자격증"
+title: "License"
 layout: archive
 permalink: categories/license
 author_profile: true
