@@ -12,42 +12,49 @@
       </li>
       <li>
         <!--span 태그로 카테고리들을 크게 분류 ex) C/C++/C#-->
-        <span class="nav__sub-title">Programming</span>
+        <span class="nav__sub-title">| Programming |</span>
             <!--ul 태그로 같은 카테고리들 모아둔 페이지들 나열-->
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Python" %}
-                        <li><a href="/categories/python" class="">파이썬 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/python" class="">└ Python ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title">Computer</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Java" %}
+                        <li><a href="/categories/java" class="">└ Java ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        <span class="nav__sub-title">| Computer |</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Algorithm" %}
-                        <li><a href="/categories/algorithm" class="">알고리즘 (with C++) ({{category[1].size}})</a></li>
+                        <li><a href="/categories/algorithm" class="">└ Algorithm (with C++) ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Computer" %}
-                        <li><a href="/categories/computer" class="">컴퓨터과학 ({{category[1].size}})</a></li>
+                    {% if category[0] == "CS" %}
+                        <li><a href="/categories/computer" class="">└ Computer Science ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>			
-		<span class="nav__sub-title">etc</span>
+		<span class="nav__sub-title">| Etc |</span>
 		    <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Blog" %}
-                        <li><a href="/categories/blog" class="">블로그 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/blog" class="">└ Blog ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
 		    <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "License" %}
-                        <li><a href="/categories/blog" class="">자격증 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/blog" class="">└ License ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
