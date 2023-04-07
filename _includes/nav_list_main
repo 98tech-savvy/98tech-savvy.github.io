@@ -38,7 +38,7 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "CS" %}
+                    {% if category[0] == "Computer" %}
                         <li><a href="/categories/computer" class="">└ Computer Science ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
@@ -54,7 +54,7 @@
 		    <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "License" %}
-                        <li><a href="/categories/blog" class="">└ License ({{category[1].size}})</a></li>
+                        <li><a href="/categories/license" class="">└ License ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

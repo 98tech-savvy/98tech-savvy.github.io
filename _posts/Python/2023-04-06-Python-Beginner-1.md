@@ -6,7 +6,7 @@ excerpt: "Python의 특징과 기본개념에 대해 알아보자"
 categories:
   - Python
 tags:
-  - [Python, 파이썬, 기초, 기본 문법]
+  - [Python, 파이썬, 기초, 기본 문법, 연산자, 라이브러리]
 
 toc: true
 toc_sticky: true

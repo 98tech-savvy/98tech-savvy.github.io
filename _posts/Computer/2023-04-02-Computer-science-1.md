@@ -2,7 +2,7 @@
 title:  "[CS] 컴퓨터 과학 이야기"
 excerpt: "컴퓨터 과학을 공부하기 전에 들어볼법한 이야기"
 
-//현재 카테고리: Comptuer, Blog, Python
+//현재 카테고리: Computer, Blog, Python
 categories:
   - Computer
 tags:

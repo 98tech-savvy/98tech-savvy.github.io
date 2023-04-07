@@ -2,7 +2,7 @@
 title:  "[CS] 컴퓨터 내부의 언어체계와 표현방법"
 excerpt: "문자, 색 등을 표현하는 방법, 10진수를 2진수로 표현하는 방법, 2진수의 사칙연산, 음수와 분수 표현 방법, 문자를 인코딩하는 표준"
 
-//현재 카테고리: Comptuer, Blog, Python, License
+//현재 카테고리: Computer, Blog, Python, License
 categories:
   - Computer
 tags:
