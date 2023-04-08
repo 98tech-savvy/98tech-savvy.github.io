@@ -1,18 +1,18 @@
 ---
-title:  "[Python] 파이썬의 특징과 기본개념"
-excerpt: "Python의 특징과 기본개념에 대해 알아보자"
+title:  "[Python] 파이썬의 특징과 연산자, 배열의 종류와 라이브러리에 관해"
+excerpt: "Python의 특징에는 어떤 것이 있고 그 안의 내용들은 어떻게 생겨먹었을까에 관해"
 
 //현재 카테고리: Computer, Blog, Python, License
 categories:
   - Python
 tags:
-  - [Python, 파이썬, 기초, 기본 문법, 연산자, 라이브러리]
+  - [Python, 파이썬, 기초, 기본 문법, 문자열, 연산자, 라이브러리]
 
 toc: true
 toc_sticky: true
 
 date: 2023-04-06
-last_modified_at: 2023-04-06
+last_modified_at: 2023-04-08
 ---
 
 # 파이썬의 특징
@@ -496,12 +496,61 @@ python.remove("유리")
 ```
 <br><br>
 
+# 자료구조의 변경
+``menu = {"밥", "라면", "음료"}`` 의 set 변수를 선언했다고해보자.
+type()으로 menu의 자료형을 알아보면 \<class> 'set' 으로 나오는걸 알 수 있다. 만약 이 menu라는 set변수를 다른 자료구조의 형태로 바꿀 수 있을까? 생각보다 간단하고, 쓰이는 곳도 많다.
+
+- list 로 변경하기
+바꾸고싶은 변수를 list()안에 넣어주기만 하면 끝난다.
+
+```
+menu = {"밥", "라면", "음료"} #현재 set변수
+print(type(menu))
+menu = list(menu) #list 형태로 menu의 자료형을 바꿈
+
+print(type(menu))
+
+결과:
+<class 'set'>
+<class 'list'>
+```
+
+- tuple 로 변경하기
+바꾸고싶은 변수를 tuple()안에 넣어주기만 하면 끝난다.
+
+```
+menu = {"밥", "라면", "음료"} #현재 set변수
+print(type(menu))
+menu = tuple(menu) #tuple 형태로 menu의 자료형을 바꿈
+
+print(type(menu))
+
+결과:
+<class 'set'>
+<class 'list'>
+```
+
+- set 으로 변경하기
+바꾸고싶은 변수를 set()안에 넣어주기만 하면 끝난다.
+
+```
+menu = {1:"밥", 2:"라면", 3:"음료"} #현재 dict변수
+print(type(menu))
+menu = set(menu) #set 형태로 menu의 자료형을 바꿈
+
+print(type(menu))
+
+결과:
+<class 'dict'>
+<class 'set'>
+```
+
 # 라이브러리
 라이브러리<sup>Library</sup>는 말 그대로 도서관이라는 뜻이며 **전 세계의 파이썬 프로그래머들이 만든 다양한 함수들을 모아놓는 곳** 이라고 생각하면 된다. **표준 라이브러리**와 **외부 라이브러리**가 있으며 이 포스팅에서는 2개의 표준 라이브러리의 몇 가지 함수들만을 소개한다. 더 자세한 정보를 원하면 [파이썬 표준 라이브러리](https://docs.python.org/ko/3/library/index.html)를 참고하자.
 
 라이브러리를 사용하려면 다음과 같은 코드를 사용한다.
-``from 라이브러리 import 범위``
-'라이브러리' 라는 라이브러리로부터 범위만큼의 정보를 가져온다라는 뜻이다.
+``from 라이브러리 import *``
+'라이브러리' 라는 모듈을 사용하고 *만큼의 함수를 가져오겠다는 뜻이다.
 
 ## math
 ``from math import *``
