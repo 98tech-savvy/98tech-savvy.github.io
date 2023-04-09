@@ -1,12 +1,12 @@
 ---
-title:  "[Python] 파일, "
-excerpt: "Python의 파일을 다루는 방법과 "
+title:  "[Python] 파일입출력, 클래스 "
+excerpt: "Python의 파일을 다루는 방법과 클래스에 대한 것을 알아보자"
 
 //현재 카테고리: Computer, Blog, Python, License
 categories:
   - Python
 tags:
-  - [Python, 파일입출력, Pickle]
+  - [Python, 파일입출력, Pickle, 클래스, 다중상속, super()]
 
 toc: true
 toc_sticky: true
