@@ -204,6 +204,8 @@ Header size2<br>
 |ruby|Ruby|
 |sql|SQL|
 
+그 외 더 많은 언어는 [SUPPORTED_LANGUAGES](https://github.com/highlightjs/highlight.js/blob/main/SUPPORTED_LANGUAGES.md)를 참고하자.
+
 ## 수평선(Horizontal Rules)
 
 단락을 구분지을 필요가 있을 때 사용한다. 별표(\*\*\*), 대쉬(\-\-\-), 언더바(\_\_\_)
