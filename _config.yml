@@ -19,7 +19,7 @@ title                    : ""
 title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "98tech-savvy"
-description              : "2023-04-01<br>Keep learning developer"
+description              : "Programming, CS, Etc BLOG"
 url                      : https://98tech-savvy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "98tech-savvy/98tech-savvy.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "98tech-savvy"
   avatar           : "/assets/img/logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Keep learning developer<br>2023-04-01 ~ "
+  bio              : "**Keep learning**<br><br>2023-04-01 ~ "
   location         : "Asia/Seoul"
   email            :
   links:
@@ -141,7 +141,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/98tech-savvy"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -151,7 +151,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+    - label : "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:98tech.savvy@gmail.com"
 
 # Reading Files
 include:
