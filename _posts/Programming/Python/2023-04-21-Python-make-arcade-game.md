@@ -1,12 +1,12 @@
 ---
-title:  "[Python] test"
-excerpt: "ChatGPT를 openai 모듈로 불러와서 Python으로 코딩해서 대화해보자"
+title:  "[Python] 공 부수기 게임 만들기"
+excerpt: "pygame의 튜토리얼을 바탕으로 공 부수기 게임을 만들어보자."
 
 //현재 카테고리: Computer, Blog, Python, License
 categories:
   - Python
 tags:
-  - [Python, ChatGPT, OpenAI, 인공지능]
+  - [Python, pygame, 공 부수기 게임 만들기, 공 부수기 튜토리얼]
 
 toc: true
 toc_sticky: true
