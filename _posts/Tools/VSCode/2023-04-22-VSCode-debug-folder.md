@@ -28,8 +28,10 @@ bullet = pygame.image.load("PythonWorkspace/pygame/arcade_game/images/bullet.png
 
 # 해결 방법, 디버깅 시작 경로 변경
 ![image](https://user-images.githubusercontent.com/128434645/233734069-d1147430-09a5-486e-93ce-8300c7fe3945.png)
+
 빨간색 동그라미의 버튼을 눌러준다. 그러면 '실행 및 디버그' 탭으로 이동한다.
 
 
 ![image](https://user-images.githubusercontent.com/128434645/233734292-ff9b4c4f-1d6e-4ab7-9bcc-af71ed21e1ec.png)
+
 초록색 ▷ 버튼을 눌러주면 '구성' 을 추가할 수 있는데, 자신이 원하는 시작 경로로 설정해주고 디버깅을 다시 해보면 문제 없이 디버깅하고 터미널에 원하는 경로가 나오는 것을 볼 수 있다.
