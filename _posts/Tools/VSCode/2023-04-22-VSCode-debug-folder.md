@@ -24,11 +24,9 @@ VSCode에서 디버그를 하면 원래는 잘 작동하던 상대경로가 No W
 Weapon = pygame.image.load("PythonWorkspace/pygame/arcade_game/images/weapon.png")
 bullet = pygame.image.load("PythonWorkspace/pygame/arcade_game/images/bullet.png")
 ```
-
-# 해결 방법, 디버깅 시작 경로 변경
-
 <br><br>
 
+# 해결 방법, 디버깅 시작 경로 변경
 ![image](https://user-images.githubusercontent.com/128434645/233734069-d1147430-09a5-486e-93ce-8300c7fe3945.png)
 빨간색 동그라미의 버튼을 눌러준다. 그러면 '실행 및 디버그' 탭으로 이동한다.
 
