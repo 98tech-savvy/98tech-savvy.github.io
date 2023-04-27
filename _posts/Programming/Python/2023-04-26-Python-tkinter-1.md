@@ -235,8 +235,8 @@ txt1.pack()
 
 txt1.insert(END, "기본 값")
 
-entry1 = Entry(root, width=30)
-entry1.pack()
+e1 = Entry(root, width=30)
+e1.pack()
 
 def btncmd():
     #내용 출력
