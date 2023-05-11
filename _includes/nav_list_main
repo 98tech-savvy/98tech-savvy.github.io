@@ -62,6 +62,13 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "AI" %}
+                        <li><a href="/categories/ai" class="">└ AI ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "Computer" %}
                         <li><a href="/categories/computer" class="">└ Computer Science ({{category[1].size}})</a></li>
                     {% endif %}
