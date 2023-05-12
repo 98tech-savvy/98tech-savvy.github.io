@@ -26,7 +26,9 @@ last_modified_at: 2023-05-11
 다른 사람이 말하고 있는 음성을 내 목소리를 덮어씌워서 바꿔주는 프로그램이다.
 
 [DIFF-SVC 가이드북](https://docs.google.com/document/d/1nA3PfQ-BooUpjCYErU-BHYvg2_NazAYJ0mvvmcjG40o/edit)
+
 [학습용 COLAB](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa09LSTZ3dXRzNXkydWNlb0ZnbkhXaFUxNHprd3xBQ3Jtc0tuT2FPLXpTV0FUSWF2bTVFakhRTUlqNmViUGY5ekNQYk5SbDBHSWdkYVdvazBlMXk0cUsweE9WWWx3NHQ2eGxXM2FxRVNWbzhGamdvT1JSX2JxeGhSdHA5VUhKcGh0OGwwWW50V1ZUeUFrdG1yT2dYNA&q=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1kiUvz1TrNJa_MOfOld7DHanv4gZsl7MN&v=JMCxsc-kJ24)
+
 [결과용 COLAB](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkJ3bTY4b2pyN1hJa1RqMW12SlBSc3RpbFlVQXxBQ3Jtc0ttZzd2Zy10cTI4X3IweTBKYVNyNU03cTVfd1owMnBSMkRtZjlMc2g3UlhPazhxZ1Y2bERqSU5XNWprdThJaUFjdXhwVTktUXh1bWlJZGlBQnJlV1Z5a1ZESThheXZzRGdpZTlrTkRKd0RvRmlsazJLdw&q=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1zGPrh-qxscYU2mvhiv8rrjqEn0WHnOOF%3Fusp%3Dsharing&v=JMCxsc-kJ24)
 
 내 목소리의 샘플을 준비한다음(길면 길수록 좋다) 그 음성파일을 15초 단위로 나누어준다.
