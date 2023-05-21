@@ -1,6 +1,6 @@
 ---
 title:  "[Alg] 최댓값을 구하는 알고리즘"
-excerpt: "정해진 수 들중 최댓값을 구하는 알고리즘"
+excerpt: "여러가지 수 중에서 최댓값을 구하는 알고리즘"
 
 categories:
   - Algorithm
