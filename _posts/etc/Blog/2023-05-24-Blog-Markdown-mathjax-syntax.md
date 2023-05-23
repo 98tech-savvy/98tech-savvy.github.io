@@ -11,8 +11,8 @@ tags:
 toc: true
 toc_sticky: true
 
-date: 2023-05-23
-last_modified_at: 2023-05-23
+date: 2023-05-24
+last_modified_at: 2023-05-24
 ---
 
 # minimal-mistakes 에서 사용하기
