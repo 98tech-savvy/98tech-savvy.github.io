@@ -1,35 +1,62 @@
 ---
-title:  "[Alg] 순차 탐색 알고리즘"
-excerpt: "주어진 리스트에 특정한 값의 위치를 반환해주는 알고리즘, 선형 탐색(linear search) 알고리즘을 구현해보자"
+title:  "[Alg] 선택 정렬 알고리즘"
+excerpt: "작은 수 부터 큰 수 순서로 배열하는 정렬 알고리즘을 만들어보자"
 
 categories:
   - Algorithm
 tags:
-  - [Algorithm, 알고리즘, 순차 탐색, linear search, 선형 탐색 알고리즘]
+  - [Algorithm, 알고리즘, 선택 정렬, Selection sort, 정렬]
 
 toc: true
 toc_sticky: true
  
-date: 2023-05-27
-last_modified_at: 2023-05-27
+date: 2023-05-28
+last_modified_at: 2023-05-28
 ---
 
-리스트에 원하는 값의 인덱스(위치)를 반환해주는 알고리즘
+# min 함수 활용
 
 ```python
-def func(arr, search_val):
-    for idx, val in enumerate(arr):
-        if arr[idx] == search_val:
-            return idx
+def func(arr):
+    temp = []
+    for i in range(0, len(arr)):
+        temp.append(min(arr))
+        arr.remove(min(arr))
 
-    return -1 # 값이 없을 때 -1
+    return temp
+
 
 def main():
-    arr = [17, 92, 18, 33, 58, 5, 33, 42]
-    print(func(arr, 10000)) # -1
-    print(func(arr, 92)) # 1 반환
+    arr = [35, 9, 2, 85, 17]
+    print(func(arr))
 ```
 
-최대 n번 비교를 해야하기 때문에 시간복잡도는 O(n)이다.
+# 배열 하나로 바꾸기
 
-enumerate를 쓰기 싫다면 배열의 len값을 구해준 뒤 range(0, len(arr))로 범위를 지정하고 arr[i]로 비교를 하면 된다.
+```python
+def func(arr):
+    for i in range(0, len(arr)):
+        min_idx = 0
+
+        for j in range(i + 1, len(arr)):
+            if arr[j] < arr[i]:
+                min_idx = j
+                arr[i], arr[min_idx] = arr[min_idx], arr[i]
+
+    return arr
+
+
+def main():
+    arr = [35, 9, 2, 85, 17]
+
+    arr = func(arr)
+    print(arr)
+
+
+if __name__ == "__main__":
+    main()
+```
+
+# 알고리즘 분석
+
+리스트 안의 자료를 한 번씩 비교해야하므로 O($n^2$) ($\frac{n(n-1)}{2}$ 이므로)
