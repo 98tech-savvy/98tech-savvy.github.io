@@ -5,7 +5,7 @@ excerpt: "작은 수 부터 큰 수 순서로 배열하는 정렬 알고리즘�
 categories:
   - Algorithm
 tags:
-  - [Algorithm, 알고리즘, 선택 정렬, Selection sort, 정렬]
+  - [Algorithm, 알고리즘, 삽입 정렬, Insertion sort, 정렬]
 
 toc: true
 toc_sticky: true

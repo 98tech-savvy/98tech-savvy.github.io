@@ -92,6 +92,13 @@
             </ul>
 		    <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "Read" %}
+                        <li><a href="/categories/read" class="">└ Read ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+		    <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "License" %}
                         <li><a href="/categories/license" class="">└ License ({{category[1].size}})</a></li>
                     {% endif %}
