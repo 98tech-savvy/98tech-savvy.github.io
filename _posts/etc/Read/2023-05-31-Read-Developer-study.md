@@ -1,11 +1,11 @@
 ---
 title:  "[Read] 개발자의 평생 공부"
-excerpt: "작은 수 부터 큰 수 순서로 배열하는 정렬 알고리즘을 만들어보자"
+excerpt: "평생 공부하는 건 개발자만이 아니다"
 
 categories:
-  - Algorithm
+  - Read
 tags:
-  - [Algorithm, 알고리즘, 퀵 정렬, Quick sort, 정렬]
+  - [Read, 읽어볼만한 글, 임백준, 개발자의 평생 공부]
 
 toc: true
 toc_sticky: true
