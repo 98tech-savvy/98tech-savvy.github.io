@@ -28,10 +28,14 @@ Ubuntu에서 로컬 타임 저장하는 방법을 설명하겠습니다.
  
 Ubuntu의 터미널에서:
 
+```linux
 $ timedatectl set-local-rtc 1 --adjust-system-clock
  
 $ timedatectl
- 
+```
+
 원래대로 UTC 타임을 저장하게 만들고 싶다면
 
+```linux
 $ timedatectl set-local-rtc 0 --adjust-system-clock
+```
