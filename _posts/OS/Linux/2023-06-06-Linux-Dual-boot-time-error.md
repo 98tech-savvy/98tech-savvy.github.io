@@ -1,8 +1,7 @@
 ---
-title:  "[Ubuntu] 듀얼 부팅 시 Windows 시간이 변경되는 문제 해결하기"
+title:  "[Linux] Ubuntu 22.04 듀얼 부팅 시 Windows 시간이 변경되는 문제 해결하기"
 excerpt: "컴퓨터에 듀얼 부팅을 구성하던 중 Windows 시간이 바뀌는 문제를 찾았다."
 
-//현재 카테고리: Comptuer, Blog, Python
 categories:
   - Linux
 tags:

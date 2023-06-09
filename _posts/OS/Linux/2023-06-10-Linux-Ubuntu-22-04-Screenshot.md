@@ -2,7 +2,6 @@
 title:  "[Linux] Ubuntu 22.04 우분투 스크린 샷 찍는 방법"
 excerpt: "Ubuntu 22.04 버전에서 스크린 샷을 찍는 방법에 대해 알아보자"
 
-//현재 카테고리: Comptuer, Blog, Python
 categories:
   - Linux
 tags:
