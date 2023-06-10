@@ -48,14 +48,14 @@ $ sudo apt install gnome-tweaks
 
 sudo apt 명령어를 이용해 gnome-tweaks 를 받아주자.
 
-![Alt text](image.png)
+![Alt text](image-3.png)
 
 그 이후 tweaks 혹은 '기능 개선'을 검색해 해당 어플리케이션으로 이동
 
-![Alt text](image-1.png)
+![image](https://github.com/98tech-savvy/98tech-savvy.github.io/assets/128434645/8e1f0b04-aa9f-4442-af31-2e9471a94691)
 
 Tweaks>Appearance 탭의 Applications 에서 WhiteSur 테마를 적용시키면 된다.
 
-![Alt text](image-2.png)
+![image](https://github.com/98tech-savvy/98tech-savvy.github.io/assets/128434645/575f5104-9321-4cd8-9c80-f226fdf3723c)
 
 Windows Titlebars 에서 Placement를 Left로 바꿔주면 정말 MacOS에 있는 듯한 느낌이 난다.
