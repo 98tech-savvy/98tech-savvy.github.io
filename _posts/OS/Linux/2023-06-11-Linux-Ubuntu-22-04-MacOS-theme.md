@@ -48,7 +48,6 @@ $ sudo apt install gnome-tweaks
 
 sudo apt 명령어를 이용해 gnome-tweaks 를 받아주자.
 
-![Alt text](image-3.png)
 
 그 이후 tweaks 혹은 '기능 개선'을 검색해 해당 어플리케이션으로 이동
 
