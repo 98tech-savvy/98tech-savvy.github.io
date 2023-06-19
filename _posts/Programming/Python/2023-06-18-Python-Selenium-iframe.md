@@ -1,36 +1,30 @@
 ---
-title:  "[Python] 내 컴퓨터의 User-agent 확인하기"
-excerpt: "스크래핑에 사용하는 User-agent를 확인하는 사이트"
+title:  "[Python] Selenium 셀레니움 element를 찾지 못할 때"
+excerpt: "셀레니움의 find_element 를 해도 요소를 찾지 못한다."
 
 categories:
   - Python
 tags:
-  - [Python, RPA, 업무자동화, Scarper, 스크랩, 크롤링, 스크래퍼, User-agent]
+  - [Python, RPA, 업무자동화, Scarper, 스크랩, 크롤링, 스크래퍼]
 
 toc: true
 toc_sticky: true
 
-date: 2023-06-16
-last_modified_at: 2023-06-16
+date: 2023-06-18
+last_modified_at: 2023-06-18
 ---
 
+네이버 지도같은 동적 사이트에서, 크롤링을 하기 위해 셀레니움을 활용해 요소 찾기를 시도했는데, 아무리 바꿔도, 셀렉터를 바꿔도 찾지 못한다
 
-[What is my User-agent](https://www.whatismybrowser.com/detect/what-is-my-user-agent/)
+그럴 때는 내가 찾는 프레임의 body 안에 그 요소가 없는건데, html에는 iframe이라는 기술이 있어 html안에 다른 html을 집어넣을 수 있다.
 
-위 링크에 들어가면 아래의 사진과 같은 사이트가 뜨게 된다.
-
-![image](https://github.com/98tech-savvy/98tech-savvy.github.io/assets/128434645/9df17561-c98f-4b72-8aef-303a39e13a0e)
-
-여기서 USER-AGENT 라고 적혀있는 부분을 python에 적어주면 된다.
-
-셀레니움에서 USER-AGENT를 적용하는 방법은
-
+그 iframe에 접근하는 방법
 ```python
-options = webdriver.EdgeOptions()
+frame = browser.find_element(By.CSS_SELECTOR, "iframe#searchIframe")
 
-options.add_argument(
-    "--user-agent=YOUR_USER-AGENT"
-)
+browser.switch_to.frame(frame)
 ```
 
-와 같이 추가해주면 된다.
+searchIframe 이라는 iframe에 접근해서 switch_to.frame() 을 통해 프레임을 iframe으로 바꿔주었다.
+
+여기서 찾는 요소를 시도하면 찾을 수 있을 것이다.
