@@ -6,7 +6,7 @@ categories:
   - Linux
 tags:
   - [Linux, Ubuntu, 리눅스, 우분투, 우분투 22.04, 워닝, apt-key, sudo apt -update 워닝 해결]
-자
+
 toc: true
 toc_sticky: true
 

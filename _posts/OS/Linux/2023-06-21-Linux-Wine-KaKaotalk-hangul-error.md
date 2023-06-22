@@ -6,7 +6,7 @@ categories:
   - Linux
 tags:
   - [Linux, Ubuntu, 리눅스, 우분투, 우분투 22.04, Wine, 카카오톡]
-자
+
 toc: true
 toc_sticky: true
 
