@@ -21,7 +21,7 @@ Github에 공유를 하기 위해서는 일단 회원가입을 진행해야한�
 ![image](https://github.com/98tech-savvy/98tech-savvy.github.io/assets/128434645/acc033f2-8d81-449d-b6ee-7ba120223ec1)
 
 그럼 이러한 페이지가 나온다.
-![Alt text](image.png)
+![image](https://github.com/98tech-savvy/98tech-savvy.github.io/assets/128434645/5187e4b9-4b86-4517-92cd-5e389a718d42)
 
 1. 레포지토리의 이름을 적어준다
 2. 공개할건지 비공개할건지 선택해준다
