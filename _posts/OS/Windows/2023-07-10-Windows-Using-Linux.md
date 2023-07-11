@@ -1,12 +1,12 @@
 ---
-title:  "윈도우10에서 리눅스를 사용해보자, WLS 설치하기"
-excerpt: "윈도우10에서 사용할 수 있는 서브 시스템 리눅스(WLS2)를 사용해보자."
+title:  "윈도우10에서 리눅스를 사용해보자, WSL 설치하기"
+excerpt: "윈도우10에서 사용할 수 있는 서브 시스템 리눅스(WSL)를 사용해보자."
 
 //현재 카테고리: Computer, Blog, Python, License
 categories:
   - Windows
 tags:
-  - [윈도우, Windows, 리눅스, Linux, WLS2]
+  - [윈도우, Windows, 리눅스, Linux, WSL]
 
 toc: true
 toc_sticky: true
@@ -17,7 +17,7 @@ last_modified_at: 2023-07-10
 
 윈도우10에서는 리눅스를 서브 시스템으로 사용할 수 있다. 그것도 어플리케이션 설치만 해주면 간편하게 사용해줄 수 있다.
 
-**WLS : 리눅스용 윈도우즈 하위 시스템**
+**WSL : 리눅스용 윈도우즈 하위 시스템**
 
 1. Microsoft Store를 연다.
 ![image](https://github.com/98tech-savvy/98tech-savvy.github.io/assets/128434645/81061191-a17e-467c-abc5-822547299d2c)
@@ -32,7 +32,7 @@ last_modified_at: 2023-07-10
 ![image](https://github.com/98tech-savvy/98tech-savvy.github.io/assets/128434645/82aabf2f-c2e2-4a62-a021-1b96ef89cd47)
 사진의 **[Windows 기능 켜기/끄기]**를 켜준다. 
 
-5. Linux용 Windows 하위 시스템 (이하 WLS)를 체크해서 켜준다
+5. Linux용 Windows 하위 시스템(WSL)을 체크해서 켜준다
 ![image](https://github.com/98tech-savvy/98tech-savvy.github.io/assets/128434645/d96067e5-835a-4707-8d68-f7f79050f51d)
 
 6. 재부팅 후 Ubuntu 22.04 LTS 어플리케이션을 실행해준다.
