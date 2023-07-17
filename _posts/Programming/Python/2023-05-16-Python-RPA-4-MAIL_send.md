@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 업무자동화(RPA) 3-1편 - 메일 보내기"
+title:  "업무자동화(RPA) 3-1편 - 메일 보내기"
 excerpt: "Python으로 회사의 반복적인 업무를 자동화 해보자. 파이썬으로 메일 보내보기"
 
 categories:

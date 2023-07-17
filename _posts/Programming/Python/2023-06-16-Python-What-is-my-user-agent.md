@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 내 컴퓨터의 User-agent 확인하기"
+title:  "내 컴퓨터의 User-agent 확인하기"
 excerpt: "스크래핑에 사용하는 User-agent를 확인하는 사이트"
 
 categories:

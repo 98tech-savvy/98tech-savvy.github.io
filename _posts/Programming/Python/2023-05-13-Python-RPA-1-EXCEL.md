@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 업무자동화(RPA) 1편 - 엑셀"
+title:  "업무자동화(RPA) 1편 - 엑셀"
 excerpt: "Python으로 회사의 반복적인 업무를 자동화 해보자. 엑셀 자동화하기"
 
 categories:

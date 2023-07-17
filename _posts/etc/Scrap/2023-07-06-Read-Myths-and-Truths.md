@@ -1,5 +1,5 @@
 ---
-title:  "[Read] 개발자에 대한 오해와 진실"
+title:  "개발자에 대한 오해와 진실"
 excerpt: "개발자에 대한 오해와 진실에 대해 알아보자"
 
 categories:

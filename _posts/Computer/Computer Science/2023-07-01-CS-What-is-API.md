@@ -1,5 +1,5 @@
 ---
-title:  "[CS] API란?"
+title:  "API란?"
 excerpt: "API에 대해 알아보자"
 
 //현재 카테고리: Computer, Blog, Python, License

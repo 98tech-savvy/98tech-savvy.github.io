@@ -1,5 +1,5 @@
 ---
-title:  "[Alg] 팩토리얼 구하기 알고리즘"
+title:  "팩토리얼 구하기 알고리즘"
 excerpt: "1부터 n까지 연속한 정수의 곱을 구하는 알고리즘"
 
 categories:

@@ -1,5 +1,5 @@
 ---
-title:  "[Linux] Ubuntu 22.04 Sudo apt -update W: 해결, 워닝 없애기"
+title:  "Ubuntu 22.04 Sudo apt -update W: 해결, 워닝 없애기"
 excerpt: "Sudo apt -update 를 했을 때 나오는 W:apt-key를 없애보자."
 
 categories:

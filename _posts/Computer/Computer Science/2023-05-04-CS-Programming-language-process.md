@@ -1,5 +1,5 @@
 ---
-title:  "[CS] 프로그래밍이 언어를 처리하는 방법"
+title:  "프로그래밍이 언어를 처리하는 방법"
 excerpt: "컴퓨터가 프로그램을 해석하고 변환해서 처리하는 방법에 대해서 알아보자"
 
 //현재 카테고리: Computer, Blog, Python, License

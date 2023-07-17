@@ -1,5 +1,5 @@
 ---
-title:  "[Alg] 알고리즘이란"
+title:  "알고리즘이란"
 excerpt: "알고리즘이란 무엇일까, 알고리즘에 대한 정의와 설명"
 
 //현재 카테고리: Computer, Blog, Python, License

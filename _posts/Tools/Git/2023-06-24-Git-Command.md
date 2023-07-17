@@ -1,5 +1,5 @@
 ---
-title:  "[Git] 기본 명령어"
+title:  "Git의 기본 명령어"
 excerpt: "깃의 기본 명령어에 대해 알아보자"
 
 categories:

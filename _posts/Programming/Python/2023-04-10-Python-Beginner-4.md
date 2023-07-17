@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 모듈과 패키지, 내장함수와 외장함수"
+title:  "모듈과 패키지, 내장함수와 외장함수"
 excerpt: "Python의 모듈과 패키지는 어떻게 만들고 사용하는지, 내장함수와 외장함수는 어디서 찾고 사용하는지"
 
 //현재 카테고리: Computer, Blog, Python, License

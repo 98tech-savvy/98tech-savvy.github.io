@@ -1,5 +1,5 @@
 ---
-title:  "[Git] Github에 공유하기"
+title:  "Git으로 Github에 코드 공유하기"
 excerpt: "Github에 자신의 코드를 공유해보자"
 
 categories:

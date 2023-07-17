@@ -1,5 +1,5 @@
 ---
-title:  "[License] 컴퓨터 활용 능력 1급 공부 후기"
+title:  "컴퓨터 활용 능력 1급 공부 후기"
 excerpt: "2022-12-01 ~ 2022-12-16"
 
 //현재 카테고리: Comptuer, Blog, Python, License

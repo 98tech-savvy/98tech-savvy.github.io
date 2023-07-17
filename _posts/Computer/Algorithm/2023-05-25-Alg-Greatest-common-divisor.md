@@ -1,5 +1,5 @@
 ---
-title:  "[Alg] 최대공약수 구하기 알고리즘"
+title:  "최대공약수 구하기 알고리즘"
 excerpt: "두 자연수 a와 b의 최대공약수를 구하는 알고리즘"
 
 categories:

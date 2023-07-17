@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 공 부수기 게임 만들기"
+title:  "공 부수기 게임 만들기"
 excerpt: "pygame의 튜토리얼을 바탕으로 공 부수기 게임을 만들어보자."
 
 //현재 카테고리: Computer, Blog, Python, License

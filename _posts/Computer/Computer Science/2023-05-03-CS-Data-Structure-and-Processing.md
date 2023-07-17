@@ -1,5 +1,5 @@
 ---
-title:  "[CS] 데이터 구조와 처리"
+title:  "데이터 구조와 처리"
 excerpt: "데이터를 구성하고 처리하는 방법"
 
 //현재 카테고리: Computer, Blog, Python, License

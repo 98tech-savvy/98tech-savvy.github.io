@@ -1,5 +1,5 @@
 ---
-title:  "[Blog] 마크다운 문법 정리"
+title:  "마크다운 문법 정리"
 excerpt: "블로그 포스팅에 필요한 마크다운의 문법을 정리해보았다."
 
 //현재 카테고리: Comptuer, Blog, Python

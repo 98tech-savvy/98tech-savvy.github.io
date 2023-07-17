@@ -1,5 +1,5 @@
 ---
-title:  "[Python] if ____name____ == \"____main____\"을 하는 이유"
+title:  "if ____name____ == \"____main____\"을 하는 이유"
 excerpt: "파이썬을 프로그래밍 하다보면 C언어의 main()과는 다르게 if ____name____ == \"____main____\"을 사용해서 메인 함수를 호출해주곤 한다. 왜 그런걸까? 파이썬은 어떤 장점을 가지고있을까?"
 
 //현재 카테고리: Computer, Blog, Python, License

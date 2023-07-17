@@ -1,5 +1,5 @@
 ---
-title:  "[Python] Selenium 셀레니움 element를 찾지 못할 때"
+title:  "Selenium 셀레니움 element를 찾지 못할 때"
 excerpt: "셀레니움의 find_element 를 해도 요소를 찾지 못한다."
 
 categories:

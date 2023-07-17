@@ -1,5 +1,5 @@
 ---
-title:  "[Python] ChatGPT를 Python(파이썬)으로 사용해보기"
+title:  "ChatGPT를 Python(파이썬)으로 사용해보기"
 excerpt: "ChatGPT를 openai 모듈로 불러와서 Python으로 코딩해서 대화해보자"
 
 //현재 카테고리: Computer, Blog, Python, License

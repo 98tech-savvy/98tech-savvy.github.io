@@ -1,5 +1,5 @@
 ---
-title:  "[Read] 프레임워크 공부를 멈춰라"
+title:  "프레임워크 공부를 멈춰라"
 excerpt: "Stop learning framework"
 
 categories:

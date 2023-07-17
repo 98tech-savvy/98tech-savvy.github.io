@@ -1,5 +1,5 @@
 ---
-title:  "[Read] 개발자의 평생 공부"
+title:  "개발자의 평생 공부"
 excerpt: "평생 공부하는 건 개발자만이 아니다"
 
 categories:

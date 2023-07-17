@@ -1,5 +1,5 @@
 ---
-title:  "[AI] 내 목소리로 노래하는 AI"
+title:  "내 목소리로 노래하는 AI"
 excerpt: "Diff-SVC를 활용해 내 목소리로 노래하는 AI를 만들어보자."
 
 //현재 카테고리: Computer, Blog, Python, License

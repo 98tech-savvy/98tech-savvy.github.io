@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 파이썬의 특징과 연산자, 배열의 종류와 라이브러리에 관해"
+title:  "파이썬의 특징과 연산자, 배열의 종류와 라이브러리에 관해"
 excerpt: "Python의 특징에는 어떤 것이 있고 그 안의 내용들은 어떻게 생겨먹었을까에 관해"
 
 //현재 카테고리: Computer, Blog, Python, License

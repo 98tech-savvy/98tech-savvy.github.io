@@ -1,5 +1,5 @@
 ---
-title:  "[Git] 동시에 여러 작업 진행하기"
+title:  "Git로 동시에 여러 작업 진행하기"
 excerpt: "협업하는데 필요한 기능을 배워보자"
 
 categories:

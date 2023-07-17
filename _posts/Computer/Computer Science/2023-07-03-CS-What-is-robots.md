@@ -1,5 +1,5 @@
 ---
-title:  "[CS] robots.txt 란 무엇일까?"
+title:  "robots.txt 란 무엇일까?"
 excerpt: "robots.txt 총 정리"
 
 //현재 카테고리: Computer, Blog, Python, License

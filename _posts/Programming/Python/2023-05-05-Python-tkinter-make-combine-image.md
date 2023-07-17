@@ -1,5 +1,5 @@
 ---
-title:  "[Python] tkinter로 이미지 합치기 프로그램 만들기"
+title:  "tkinter로 이미지 합치기 프로그램 만들기"
 excerpt: "tkinter의 기본은 전부 배웠으니 이제 tkinter를 활용해서 이미지를 합쳐서 하나의 이미지로 만들어주는 프로그램을 만들어보자"
 
 //현재 카테고리: Computer, Blog, Python, License

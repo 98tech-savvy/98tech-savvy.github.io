@@ -1,5 +1,5 @@
 ---
-title:  "[CS] 네트워킹"
+title:  "네트워킹"
 excerpt: "컴퓨터의 네트워크에 대하여"
 
 //현재 카테고리: Computer, Blog, Python, License

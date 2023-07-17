@@ -1,5 +1,5 @@
 ---
-title:  "[CS] 전자 회로의 조합 논리"
+title:  "전자 회로의 조합 논리"
 excerpt: "컴퓨터는 왜 비트를  사용하는걸까"
 
 //현재 카테고리: Computer, Blog, Python, License

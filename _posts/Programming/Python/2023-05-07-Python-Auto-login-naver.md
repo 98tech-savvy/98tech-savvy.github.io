@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 웹 사이트 자동화"
+title:  "웹 사이트 자동화"
 excerpt: "파이썬과 웹 스크래핑을 활용해 네이버의 로그인을 자동으로 해보자"
 
 //현재 카테고리: Computer, Blog, Python, License

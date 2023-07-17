@@ -1,5 +1,5 @@
 ---
-title:  "[Read] 개발자의 글 쓰기"
+title:  "개발자의 글 쓰기"
 excerpt: "개발자는 글을 써야할까"
 
 categories:

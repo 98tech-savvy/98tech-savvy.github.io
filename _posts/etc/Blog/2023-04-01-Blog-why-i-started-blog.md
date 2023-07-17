@@ -1,5 +1,5 @@
 ---
-title:  "[Blog] 개발 초보자가 Github 블로그를 선택한 이유"
+title:  "개발 초보자가 Github 블로그를 선택한 이유"
 excerpt: "수 많은 블로그 플랫폼중에 Github.io를 선택한 이유"
 
 //현재 카테고리: Comptuer, Blog, Python

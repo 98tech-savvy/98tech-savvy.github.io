@@ -1,5 +1,5 @@
 ---
-title:  "[Web] HTML, CSS"
+title:  "HTML, CSS"
 excerpt: "HTML, CSS"
 
 //현재 카테고리: Computer, Blog, Python, License

@@ -1,5 +1,5 @@
 ---
-title:  "[Linux] Ubuntu 22.04 Grub 부팅 순서 변경하기"
+title:  "Ubuntu 22.04 Grub 부팅 순서 변경하기"
 excerpt: "Grub의 부팅순서를 변경해보자"
 
 categories:

@@ -2,7 +2,6 @@
 title:  "자바스크립트의 장단점 정리"
 excerpt: "자바스크립트의 장점과 단점에 대해 알아보자."
 
-//현재 카테고리: Computer, Blog, Python, License
 categories:
   - Javascript
 tags:

@@ -1,5 +1,5 @@
 ---
-title:  "[CS] 컴퓨터가 용량을 표시하는 방식, Gib, Mib, Gb, Mb"
+title:  "컴퓨터가 용량을 표시하는 방식, Gib, Mib, Gb, Mb"
 excerpt: "당연히 1Gb면 1024Mb아니야? 1Gb는 1000Mb입니다. 잘못된 표기로 인해 혼란스러운 사람들을 위해 용량의 표기 방식을 정리해보았다."
 
 //현재 카테고리: Computer, Blog, Python, License

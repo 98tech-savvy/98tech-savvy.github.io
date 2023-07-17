@@ -1,5 +1,5 @@
 ---
-title:  "[CS] 메모리와 디스크의 핵심, 순차 논리"
+title:  "메모리와 디스크의 핵심, 순차 논리"
 excerpt: "컴퓨터는 비트를 어떻게 기억할까? 시간을 표현하는 방법과 램의 종류부터, 그리고 오류를 검출하는 여러가지 방법들"
 
 //현재 카테고리: Computer, Blog, Python, License, Java, Javascript, VSCode, Git

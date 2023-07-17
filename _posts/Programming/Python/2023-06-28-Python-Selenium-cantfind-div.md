@@ -1,5 +1,5 @@
 ---
-title:  "[Python] Selenium 셀레니움 div 스크롤하기"
+title:  "Selenium 셀레니움 div 스크롤하기"
 excerpt: "웹 페이지 안의 div를 스크롤 하는 방법"
 
 categories:

@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 활동하는 모든 기자들의 이메일 가져오기"
+title:  "활동하는 모든 기자들의 이메일 가져오기"
 excerpt: "Python을 활용해 기자들의 이메일을 스크랩해보았다."
 
 categories:

@@ -1,5 +1,5 @@
 ---
-title:  "[CS] 컴퓨터 아키텍처와 운영체제"
+title:  "컴퓨터 아키텍처와 운영체제"
 excerpt: "컴퓨터가 프로그램과 메모리를 관리하는 방법"
 
 //현재 카테고리: Computer, Blog, Python, License

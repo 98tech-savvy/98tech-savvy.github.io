@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 파이게임(pygame) 튜토리얼 - 출력 함수"
+title:  "파이게임(pygame) 튜토리얼 - 출력 함수"
 excerpt: "pygame의 출력 함수에 대해 알아보자"
 
 //현재 카테고리: Computer, Blog, Python, License

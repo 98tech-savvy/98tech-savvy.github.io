@@ -1,5 +1,5 @@
 ---
-title:  "[Alg] 순차 탐색 알고리즘"
+title:  "순차 탐색 알고리즘"
 excerpt: "주어진 리스트에 특정한 값의 위치를 반환해주는 알고리즘, 선형 탐색(linear search) 알고리즘을 구현해보자"
 
 categories:

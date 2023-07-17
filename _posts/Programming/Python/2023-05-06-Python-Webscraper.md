@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 웹 스크래핑"
+title:  "웹 스크래핑"
 excerpt: "파이썬을 활용해 웹 사이트의 데이터를 가져오는 프로그램을 만들어보자"
 
 //현재 카테고리: Computer, Blog, Python, License

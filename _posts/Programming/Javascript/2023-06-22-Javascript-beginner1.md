@@ -1,5 +1,5 @@
 ---
-title:  "[Javascript] 자바스크립트 공부 정리"
+title:  "자바스크립트 공부 정리"
 excerpt: "자바스크립트 공부 정리"
 
 //현재 카테고리: Computer, Blog, Python, License

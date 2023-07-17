@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 파이게임(pygame) 튜토리얼 - HP바(HP Bar) 만들기"
+title:  "파이게임(pygame) 튜토리얼 - HP바(HP Bar) 만들기"
 excerpt: "pygame의 draw를 이용해 HP바를 만들어보자."
 
 //현재 카테고리: Computer, Blog, Python, License

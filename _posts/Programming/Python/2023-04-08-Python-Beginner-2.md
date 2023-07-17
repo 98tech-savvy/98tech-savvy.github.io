@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 반복문과 제어문, 표준입출력"
+title:  "반복문과 제어문, 표준입출력"
 excerpt: "Python의 반복문과 제어문, 함수 그리고 표준입출력에 대하여"
 
 //현재 카테고리: Computer, Blog, Python, License

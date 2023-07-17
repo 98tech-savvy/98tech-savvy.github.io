@@ -1,5 +1,5 @@
 ---
-title:  "[CS] 구글 검색의 정보 구성 방법"
+title:  "구글 검색의 정보 구성 방법"
 excerpt: "구글이 어떤 방식으로 검색한 데이터를 표시하는지, 찾는지에 대해"
 
 //현재 카테고리: Computer, Blog, Python, License

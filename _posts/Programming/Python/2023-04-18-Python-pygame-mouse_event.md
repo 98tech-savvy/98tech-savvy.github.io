@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 파이게임(pygame) 튜토리얼 - 버튼 만들기"
+title:  "파이게임(pygame) 튜토리얼 - 버튼 만들기"
 excerpt: "pygame을 활용해서 특정한 위치에서의 마우스 이벤트를 처리하는 함수를 만들어보자."
 
 //현재 카테고리: Computer, Blog, Python, License

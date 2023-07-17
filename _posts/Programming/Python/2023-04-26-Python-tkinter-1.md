@@ -1,5 +1,5 @@
 ---
-title:  "[Python] tkinter에 대해 알아보자"
+title:  "tkinter에 대해 알아보자"
 excerpt: "파이썬의 기본 모듈 중 하나인 GUI를 구성할 수 있는 tkinter에 대해 알아보자"
 
 //현재 카테고리: Computer, Blog, Python, License

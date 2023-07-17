@@ -1,5 +1,5 @@
 ---
-title:  "[Linux] Ubuntu 22.04 MacOS처럼 만들기, GTK Themes"
+title:  "Ubuntu 22.04 MacOS처럼 만들기, GTK Themes"
 excerpt: "Ubuntu 22.04 버전에서 GTK Themes를 설치해 MacOS 같이 만들어보자"
 
 categories:

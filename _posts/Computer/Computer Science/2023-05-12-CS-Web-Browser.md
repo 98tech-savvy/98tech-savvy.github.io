@@ -1,5 +1,5 @@
 ---
-title:  "[CS] 웹 브라우저"
+title:  "웹 브라우저"
 excerpt: "컴퓨터 안의 컴퓨터, 추상적인 컴퓨터, 웹 브라우저"
 
 //현재 카테고리: Computer, Blog, Python, License

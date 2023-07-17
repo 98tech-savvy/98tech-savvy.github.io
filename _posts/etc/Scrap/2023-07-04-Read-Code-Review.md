@@ -1,5 +1,5 @@
 ---
-title:  "[Read] 코드리뷰란?"
+title:  "코드리뷰란?"
 excerpt: "코드리뷰(Code Review)에 대해 알아보자"
 
 categories:

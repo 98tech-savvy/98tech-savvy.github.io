@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 파이게임(pygame) 튜토리얼 - 키 이벤트를 활용해 스스로 텍스트를 제어해보자"
+title:  "파이게임(pygame) 튜토리얼 - 키 이벤트를 활용해 스스로 텍스트를 제어해보자"
 excerpt: "pygame의 키 이벤트를 활용해 스스로 텍스트박스를 제어해보자"
 
 //현재 카테고리: Computer, Blog, Python, License

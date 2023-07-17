@@ -1,5 +1,5 @@
 ---
-title:  "[Linux] Ubuntu 22.04 기본 입/출력 장치 변경하기"
+title:  "Ubuntu 22.04 기본 입/출력 장치 변경하기"
 excerpt: "리눅스를 켰을 때 기본 마이크/스피커를 변경해보자."
 
 categories:

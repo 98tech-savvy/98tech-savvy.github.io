@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 파이게임(pygame) 튜토리얼 - 게임 만들기"
+title:  "파이게임(pygame) 튜토리얼 - 게임 만들기"
 excerpt: "지금까지 배운 pygame을 활용해서 진짜 게임을 만들어보자"
 
 //현재 카테고리: Computer, Blog, Python, License

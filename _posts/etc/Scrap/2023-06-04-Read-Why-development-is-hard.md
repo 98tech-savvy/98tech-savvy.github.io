@@ -1,5 +1,5 @@
 ---
-title:  "[Read] 개발이 어려운 이유"
+title:  "개발이 어려운 이유"
 excerpt: "에릭 트라우트먼이 말하는 개발이 어려운 이유"
 
 categories:

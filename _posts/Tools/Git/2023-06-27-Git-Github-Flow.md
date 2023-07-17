@@ -1,5 +1,5 @@
 ---
-title:  "[Git] Github Flow에 대해 알아보자"
+title:  "Github Flow에 대해 알아보자"
 excerpt: "Github Flow 방식의 협업 방식을 배워보자"
 
 categories:

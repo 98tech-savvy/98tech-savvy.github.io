@@ -1,5 +1,5 @@
 ---
-title:  "[Alg] 동명이인 찾기 알고리즘"
+title:  "동명이인 찾기 알고리즘"
 excerpt: "같은 이름을 가진 서로 다른 사람들 찾기"
 
 categories:

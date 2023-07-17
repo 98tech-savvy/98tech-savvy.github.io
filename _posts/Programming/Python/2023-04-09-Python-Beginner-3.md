@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 파일입출력, 클래스 "
+title:  "파일입출력, 클래스 "
 excerpt: "Python의 파일을 다루는 방법과 클래스에 대한 것을 알아보자"
 
 //현재 카테고리: Computer, Blog, Python, License

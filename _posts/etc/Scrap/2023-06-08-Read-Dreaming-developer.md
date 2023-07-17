@@ -1,5 +1,5 @@
 ---
-title:  "[Read] 개발자를 꿈꾸는 취업 준비생에게"
+title:  "개발자를 꿈꾸는 취업 준비생에게"
 excerpt: "javajigi님이 말씀해주시는 개발자를 꿈꾸는 취업 준비생에게"
 
 categories:

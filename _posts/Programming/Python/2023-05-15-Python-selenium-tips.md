@@ -1,5 +1,5 @@
 ---
-title:  "[Python] selenium 기능 정리"
+title:  "selenium 기능 정리"
 excerpt: "selenium의 기능 정리"
 
 categories:

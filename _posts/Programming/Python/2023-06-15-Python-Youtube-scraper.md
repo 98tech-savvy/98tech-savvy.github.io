@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 해당 유튜브 페이지의 댓글 스크래핑해보기"
+title:  "해당 유튜브 페이지의 댓글 스크래핑해보기"
 excerpt: "Python을 활용해 유튜브 페이지의 댓글들을 스크랩해보았다."
 
 categories:

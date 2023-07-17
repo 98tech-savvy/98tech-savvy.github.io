@@ -1,5 +1,5 @@
 ---
-title:  "[CS] 스택오버플로우(Stack Overflow)란"
+title:  "스택오버플로우(Stack Overflow)란"
 excerpt: "스택오버플로우(Stack Overflow)란 무엇일까"
 
 categories:

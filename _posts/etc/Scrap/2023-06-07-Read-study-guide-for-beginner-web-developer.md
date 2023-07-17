@@ -1,5 +1,5 @@
 ---
-title:  "[Read] 초보 웹 개발자를 위한 학습 안내서"
+title:  "초보 웹 개발자를 위한 학습 안내서"
 excerpt: "subicura님이 말해주는 초보 웹 개발 학습 안내서"
 
 categories:

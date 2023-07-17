@@ -1,5 +1,5 @@
 ---
-title:  "[Linux] Ubuntu 22.04 Wine 와인 설치하기"
+title:  "Ubuntu 22.04 Wine 와인 설치하기"
 excerpt: "와인을 설치해보자"
 
 categories:

@@ -1,5 +1,5 @@
 ---
-title:  "[Python] tkinter로 윈도우 메모장 만들어보기"
+title:  "tkinter로 윈도우 메모장 만들어보기"
 excerpt: "tkinter의 기본은 전부 배웠으니 이제 tkinter를 활용해서 메모장을 만들어보자"
 
 //현재 카테고리: Computer, Blog, Python, License

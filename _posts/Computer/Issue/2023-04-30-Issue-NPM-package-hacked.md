@@ -1,5 +1,5 @@
 ---
-title:  "[Issue] 개발자 생태계 노리는 악성 NPM 패키지 해킹"
+title:  "개발자 생태계 노리는 악성 NPM 패키지 해킹"
 excerpt: "개발자들은 의외로 속이기 쉽다? 코딩하다가 악성 패키지에 해킹당하는 개발자들"
 
 //현재 카테고리: Computer, Blog, Python, License, Issue
