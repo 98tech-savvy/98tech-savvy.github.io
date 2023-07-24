@@ -33,7 +33,7 @@ last_modified_at: 2023-07-24
 
 |생성(Creational) 패턴|구조(Structural) 패턴|행동(Behavioral) 패턴|
 |--|--|--|
-|Singletion|Adapter|Command|
+|Singleton|Adapter|Command|
 |Abstract Factory|Composite|Interpreter|
 |Factory Method|Decorator|Iterator|
 |Builder|Facade|Mediator|
