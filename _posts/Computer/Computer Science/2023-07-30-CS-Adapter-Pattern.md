@@ -10,8 +10,8 @@ tags:
 toc: true
 toc_sticky: true
 
-date: 2023-07-29
-last_modified_at: 2023-07-29
+date: 2023-07-30
+last_modified_at: 2023-07-30
 ---
 
 # 디자인 패턴이란?
