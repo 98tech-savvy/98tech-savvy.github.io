@@ -1,6 +1,6 @@
 ---
-title:  ""
-excerpt: ""
+title:  "minimal mistakes - 구글 애널리틱스 사용하기"
+excerpt: "구글 애널리틱스를 사용해 방문자 통계를 내보자"
 
 categories:
   - Blog
