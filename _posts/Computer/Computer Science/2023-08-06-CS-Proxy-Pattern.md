@@ -1,5 +1,5 @@
 ---
-title:  "디자인 패턴 - 프록시 패턴"
+title:  "디자인 패턴 - 프록시 패턴(Proxy Pattern)"
 excerpt: "디자인 패턴 중의 하나, 프록시 패턴에 대하여"
 
 categories:

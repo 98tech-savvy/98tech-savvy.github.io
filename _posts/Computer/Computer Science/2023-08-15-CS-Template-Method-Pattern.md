@@ -1,6 +1,6 @@
 ---
-title:  "디자인 패턴 - 전략 패턴(Strategy Pattern))"
-excerpt: "디자인 패턴 중의 하나, 전략 패턴에 대하여"
+title:  "디자인 패턴 - 템플릿 메서드 패턴(Template Method Pattern)"
+excerpt: "디자인 패턴 중의 하나, 템플릿 메서드 패턴에 대하여"
 
 categories:
   - Computer
