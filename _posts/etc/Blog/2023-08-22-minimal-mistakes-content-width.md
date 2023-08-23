@@ -28,7 +28,7 @@ last_modified_at: 2023-08-22
 
 - _variable.scss 에서 "Grid" 찾기
 
-```yml
+```scss
 /*
    Grid
    ========================================================================== */
@@ -45,7 +45,7 @@ $right-sidebar-width-wide: 260px !default;
 ## _reset.scss
 - 자신의 로컬 블로그 폴더(minimal-mistakes가 설치되어있는) > _sass > _minimal-mistakes > _reset.scss
 
-```yml
+```scss
 html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
@@ -76,6 +76,7 @@ html {
 ## _base.scss
 - 자신의 로컬 블로그 폴더(minimal-mistakes가 설치되어있는) > _sass > _minimal-mistakes > _base.scss
 
+```scss
 a {
   text-decoration: none; // <-- 추가한 코드
 
@@ -92,5 +93,6 @@ a {
     outline: 0;
   }
 }
+```
 
 a {} 코드에서 ``text-decoration: none;``을 추가해준다.
