@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://98tech-savvy.github.io/sitemap.xml
