@@ -2,11 +2,10 @@
 title:  "마크다운 수식 문법 정리 - Mathjax Syntax"
 excerpt: "마크다운에서 수학 수식 사용하기, Mathjax Syntax Summary"
 
-//현재 카테고리: Comptuer, Blog, Python
 categories:
   - Blog
 tags:
-  - [blog, markdown, mathjax, 마크다운, 마크다운 수학 수식, 수학 수식 적는법]
+  - [Blog, markdown, mathjax, 마크다운, 마크다운 수학 수식, 수학 수식 적는법]
 
 toc: true
 toc_sticky: true

@@ -2,11 +2,10 @@
 title:  "jekyll 코드블럭 라인번호(line-number) 표시하기"
 excerpt: "jekyll로 만든 블로그에 코드블럭에 라인번호 표시하고 복사 용이하게하기."
 
-//현재 카테고리: Comptuer, Blog, Python
 categories:
   - Blog
 tags:
-  - [blog, markdown, 마크다운, 코드블럭, 줄 번호, 라인넘버]
+  - [Blog, markdown, 마크다운, 코드블럭, 줄 번호, 라인넘버]
 
 toc: true
 toc_sticky: true

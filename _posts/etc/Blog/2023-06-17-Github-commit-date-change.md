@@ -2,7 +2,6 @@
 title:  "Github 커밋 날짜 변경하기"
 excerpt: "깃허브 블로그 커밋 날짜를 변경하는 방법에 대해 알아보자."
 
-//현재 카테고리: Comptuer, Blog, Python
 categories:
   - Blog
 tags:
