@@ -5,7 +5,7 @@ excerpt: "자료구조의 기초에 대해 알아보자"
 categories:
   - CS
 tags:
-  - [CS, 데이터 구조, Data Structure]
+  - [CS, 데이터 구조, Data Structure, 배열, 스택, 큐, 연결 리스트, 그래프]
 
 toc: true
 toc_sticky: true
