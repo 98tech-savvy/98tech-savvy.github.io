@@ -3,7 +3,7 @@ title:  "XML 코드 정렬과 오류 체크 사이트"
 excerpt: "XML 문자열로 데이터를 연동할 때 XML 태그 형태를 확인해야 하는 상황이 자주 발생한다."
 
 categories:
-  - Blog
+  - Etc
 tags:
   - [Etc, XML, XML 코드 정렬, 오류 체크 사이트, XML 문자열, XML Formatter]
 toc: true
