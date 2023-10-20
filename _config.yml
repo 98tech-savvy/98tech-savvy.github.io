@@ -298,4 +298,10 @@ defaults:
       share: true
       related: true
       sidebar_main: true #사이드바 활성화
-      
+ 
+ 
+ # undefined method 'gsub' error
+ collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
