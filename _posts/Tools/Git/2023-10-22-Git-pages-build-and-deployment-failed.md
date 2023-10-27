@@ -1,11 +1,11 @@
 ---
-title:  "Github Blog - pages build and deployment failed"
+title:  "[Git] Github 빌드 에러 - pages build and deployment failed"
 excerpt: "깃허브 블로그가 빌드를 자꾸 실패한다. Liquid Exception: undefined method `gsub' for 10926:Integer in /_layouts/single.html"
 
 categories:
-  - Blog
+  - Git
 tags:
-  - [Blog, Github, pages build and deployment failed, 빌드 실패, "Liquid Exception: undefined method `gsub' for 10926:Integer in /_layouts/single.html"]
+  - [Git, Blog, Github, pages build and deployment failed, 빌드 실패, "Liquid Exception: undefined method `gsub' for 10926:Integer in /_layouts/single.html"]
 
 toc: true
 toc_sticky: true
