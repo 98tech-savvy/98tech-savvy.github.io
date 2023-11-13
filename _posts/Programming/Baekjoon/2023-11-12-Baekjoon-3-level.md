@@ -1,5 +1,5 @@
 ---
-title:  "백준 단계별로 풀어보기 - 구구단"
+title:  "백준 단계별로 풀어보기 정답 모아보기 - 반복문"
 excerpt: "백준 단계별로 풀어보기 3단계, 반복문 문제 정답 총정리"
 
 categories:
@@ -10,8 +10,8 @@ tags:
 toc: true
 toc_sticky: true
 
-date: 2023-11-04
-last_modified_at: 2023-11-04
+date: 2023-11-12
+last_modified_at: 2023-11-12
 ---
 
 # 2739 - 구구단
@@ -88,13 +88,22 @@ for i in range(T):
 # 11021 - A+B -7
 
 ```py
+# 백준 11021 - A+B -7
 
+T = int(input())
+for i in range(T):
+    A, B = map(int, input().split(" "))
+    print(f"Case #{i+1}: {A+B}")
 ```
 
 # 11022 - A+B -8
 
 ```py
+T = int(input())
 
+for i in range(T):
+    A, B = map(int, input().split(" "))
+    print(f"Case #{i+1}: {A} + {B} = {A+B}")
 ```
 
 # 2438 - 별 찍기 -1
@@ -124,11 +133,21 @@ for i in range(0, num):
 # 10952 - A+B -5
 
 ```py
+while 1:
+    A, B = map(int, input().split(" "))
+    if A == 0 and B == 0:
+        break
 
+    print(A + B)
 ```
 
 # 10951 - A+B -4
 
 ```py
-
+while 1:
+    try:
+        A, B = map(int, input().split(" "))
+        print(A + B)
+    except:
+        break
 ```
