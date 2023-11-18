@@ -5,7 +5,7 @@ excerpt: "백준 단계별로 풀어보기 4단계, 1차원 배열 문제 정답
 categories:
   - Baekjoon
 tags:
-  - [백준, Baekjoon, 프로그래밍 문제, 파이썬, 단계별로 풀어보기 3단계, 1차원 배열]
+  - [백준, Baekjoon, 프로그래밍 문제, 파이썬, 단계별로 풀어보기 4단계, 1차원 배열]
 
 toc: true
 toc_sticky: true
