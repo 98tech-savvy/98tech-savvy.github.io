@@ -12,12 +12,12 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
 locale                   : "ko-KR"
 title                    : ""
 title_separator          : ""
-subtitle                 :  98tech-savvy # site tagline that appears below site title in masthead
+subtitle                 :  # site tagline that appears below site title in masthead
 name                     : "98tech-savvy"
 description              : "Programming, CS, Etc BLOG"
 url                      : https://98tech-savvy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
