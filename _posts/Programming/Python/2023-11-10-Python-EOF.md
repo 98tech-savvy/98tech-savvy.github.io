@@ -1,6 +1,6 @@
 ---
-title:  "[Python] 숫자의 자릿수 분리하기"
-excerpt: "자릿수를 분리하는 방법"
+title:  "[Python] EOF"
+excerpt: "End of File, EOF에 대해 알아보자"
 
 categories:
   - Python

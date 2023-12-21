@@ -5,7 +5,7 @@ excerpt: "백준 단계별로 풀어보기 8단계, 일반 수학 문제 정답 
 categories:
   - Baekjoon
 tags:
-  - [백준, Baekjoon, 프로그래밍 문제, 파이썬, 단계별로 풀어보기 7단계, 일반 수학]
+  - [백준, Baekjoon, 프로그래밍 문제, 파이썬, 단계별로 풀어보기 8단계, 일반 수학]
 
 toc: true
 toc_sticky: true
