@@ -1,5 +1,5 @@
 ---
-title:  "[수학 개념] $\sum$ 시그마"
+title:  "[수학 개념] ∑시그마"
 excerpt: "시그마란 무엇일까"
 
 categories:
