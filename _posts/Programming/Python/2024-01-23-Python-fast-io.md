@@ -1,5 +1,5 @@
 ---
-title:  "파이썬으로 빠른 입출력하기"
+title:  "[Python] 파이썬으로 빠른 입출력하기"
 excerpt: "input, print를 대신할 빠른 입출력에 대해 알아보자"
 
 categories:
