@@ -83,7 +83,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Math" %}
-                        <li><a href="/categories/css" class="">└ Math ({{category[1].size}})</a></li>
+                        <li><a href="/categories/math" class="">└ Math ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>	
